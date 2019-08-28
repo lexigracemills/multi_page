@@ -1,13 +1,55 @@
 body {
-    background-color: aqua;
+    background-color: plum;
 }
 
 .header-link {
     padding: 14px 16px;
     overflow: hidden;
+    /* float: center;  */
+    background-color: rgb(221, 212, 226);     
 }
 
 
 #homelink  {
    float: left;
 }
+ .header {
+     background-color: plum;
+     text-align: center;
+     font-family: fantasy;
+    
+ }
+ .para {
+     text-align: center;
+     font-size: 30pt;
+ }
+ .header a:hover {
+     background-color: yellow;
+ }
+ 
+#aboutlink  {
+    float: right
+ }
+
+ h1 {
+     background-color: plum;
+     float: center;
+ }
+
+ #name {
+     font-family: 'Gayathri', sans-serif;
+     text-align: center;
+ }
+
+ .image {
+     margin: auto;
+     display: block;
+ }
+
+ .paragraph {
+     text-align: center;
+     font-size: 30pt;
+
+ }
+
+
